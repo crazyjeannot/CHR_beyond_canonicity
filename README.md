@@ -7,4 +7,4 @@ Data & Scripts for the article "Beyond Canonicity. Modeling Canon/Archive Litera
 
 
 
-Data are too big for github, contact me if interested: Bertopic model, Doc2vec model, BookNLP data, CSV with all facets
+Data are too big for github, contact me if interested: Lemmatized corpus, Bertopic model, Doc2vec model, BookNLP data, MAIN CSV with all facets
